@@ -34,12 +34,11 @@ Projects are currently in progress. Stay tuned!
 
 📊 GitHub Stats
 
-https://github-readme-stats.shion.dev/api?username=harshitha-ai-engineer&theme=radical&hide_border=true
+![](https://github-readme-stats.vercel.app/api?username=harshitha-ai-engineer&theme=radical&show_icons=true&hide_border=false)
 
-https://streak-stats.demolab.com/?user=harshitha-ai-engineer&theme=radical&hide_border=true
+![](https://streak-stats.demolab.com/?user=harshitha-ai-engineer&theme=radical&hide_border=false)
 
-https://github-readme-stats.shion.dev/api/top-langs/?username=harshitha-ai-engineer&theme=radical&hide_border=true&layout=compact
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitha-ai-engineer&theme=radical&layout=compact)
 🏆 GitHub Trophies
 
 https://github-profile-trophy.vercel.app/?username=harshitha-ai-engineer&theme=radical&no-frame=true&no-bg=true
